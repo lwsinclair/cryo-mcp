@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/z80dev-cryo-mcp-badge.png)](https://mseep.ai/app/z80dev-cryo-mcp)
+
 # Cryo MCP 🧊
 
 A Model Completion Protocol (MCP) server for the [Cryo](https://github.com/paradigmxyz/cryo) blockchain data extraction tool. 
